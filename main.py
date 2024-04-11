@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = "" # 自分のアクセストークンと置換してください
+TOKEN = "" # botのアクセストークンを書き込む
 
 bot = discord.Bot(
         intents=discord.Intents.all(),  # 全てのインテンツを利用できるようにする
